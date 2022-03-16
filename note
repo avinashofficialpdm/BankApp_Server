@@ -1,0 +1,20 @@
+
+
+1-create folder-
+
+2-create package.json-npm init
+
+3-install express-npm i express
+
+4-create index.js file
+
+5-import express in index.js----using requre()
+
+6-create an app using express
+
+7-setup the port number 
+to run -node index.js-here index is the entry point
+
+8-resolve http request from client
+
+9-run server
